@@ -1,1 +1,10 @@
 github::gmail::filepathutiljava::animalgm underscore project
+
+Host github-filepathutiljava
+	HostName github.com
+	IdentityFile ~/.ssh/filepathutiljava
+	IdentitiesOnly yes
+
+git config user.email "filepathutiljava@gmail.com"
+git config user.name "filepathutiljava"
+
